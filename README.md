@@ -313,7 +313,8 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 1. 这是一级的有序列表，数字1还是1
    1. 这是二级的有序列表，阿拉伯数字在显示的时候变成了罗马数字
-      1. 这是三级的有序列表，数字在显示的时候变成了英文字母
+      26. 这是三级的有序列表，数字在显示的时候变成了英文字母
+      
 2. 这是一级的有序列表，数字1还是1  
    2. 这是二级的有序列表，阿拉伯数字在显示的时候变成了罗马数  
       2. 这是三级的有序列表，数字在显示的时候变成了英文字母
@@ -324,6 +325,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
 - [x] 需求分析
 - [x] 系统设计
+- [x] 概要设计
 - [x] 详细设计
 - [ ] 编码
 - [ ] 测试
