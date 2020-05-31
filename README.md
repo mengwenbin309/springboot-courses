@@ -454,7 +454,12 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 ! 月出惊山鸟，
 # 时鸣春涧中。
 ```
-
+```diff
++ 春风吹又生
+- 人来鸟不惊
+! 闲看春江水
+# 忙时不见影
+```
 --------------------------------
 [csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
 [zhihu]:https://www.zhihu.com/people/guodongxiaren "我的知乎，欢迎关注"
